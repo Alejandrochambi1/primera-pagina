@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../../Imágenes/imagnes de practica"
+		},
+		{
+			"path": "../../Escritorio/ALEJANDRO CHAMBI/img2"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "proyecto diseño web"
+	}
+}
